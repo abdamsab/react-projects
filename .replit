@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "cd 06-tabs/setup&&npm start"
+run = "cd 07-slider/setup&&npm start"
