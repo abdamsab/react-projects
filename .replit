@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "cd 07-slider/setup&&npm start"
+run = "cd 09-color-generator/setup&&npm start"
