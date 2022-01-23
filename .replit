@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "cd 13-stripe-submenus/setup&&npm start"
+run = "cd 14-cart/setup&&npm start"
