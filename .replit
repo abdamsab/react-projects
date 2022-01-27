@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "cd 15-cocktails/setup&&npm start"
+run = "cd 18-pagination/setup&&npm start"
